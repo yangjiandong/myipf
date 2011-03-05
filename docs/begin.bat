@@ -1,0 +1,1 @@
+mvn org.apache.maven.plugins:maven-archetype-plugin:2.0-alpha-4:generate -DarchetypeGroupId=org.openehealth.ipf.archetypes -DarchetypeArtifactId=ipf-archetype-basic -DarchetypeVersion=2.2.0 -DgroupId=org.openehealth.tutorial -DartifactId=basic -Dversion=1.0-SNAPSHOT -DinteractiveMode=false
